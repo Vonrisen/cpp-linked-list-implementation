@@ -1,4 +1,4 @@
 # cpp-linked-list-implementation
 
-To compile run "build.sh"
+Run "build.sh" to compile
 
